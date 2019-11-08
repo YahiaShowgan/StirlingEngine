@@ -1,5 +1,5 @@
 # StirlingEngine
-## SE final project- C++ and OpenGL
+### SE final project- C++ and OpenGL
 
 <img src='graph.jpg'>
 
