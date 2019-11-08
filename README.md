@@ -9,4 +9,4 @@ for the graph and then displaying the graphs using OpenGL.
 and our final presentation PowerPoint.
 * To run the program and test it check the 'Instructions.docx' file in the 'Stirling Engine/Executible+Files' folder
 
-<img src='graph1.jpg'>
+<img src='graph.jpg'>
